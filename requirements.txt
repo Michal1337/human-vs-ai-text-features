@@ -1,0 +1,9 @@
+numpy
+pandas
+pyarrow
+scipy
+matplotlib
+tqdm
+nltk
+spacy
+textstat>=0.7,<0.8
